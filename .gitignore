@@ -1,0 +1,12 @@
+node_modules/
+.svelte-kit/
+build/
+.env
+.env.*
+!.env.example
+
+# agent context (local only)
+agents/
+AGENTS.md
+CLAUDE.md
+.claude/
